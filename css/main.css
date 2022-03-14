@@ -1,12 +1,12 @@
 html {
-    box-sizing: border-box;
-    line-height: 1.5;
-    font-size: 1rem;
-  }
+  box-sizing: border-box;
+  line-height: 1.5;
+  font-size: 1rem;
+}
 
 *, *::before, *::after {
-    box-sizing: inherit;
-  }
+  box-sizing: inherit;
+}
 
 body {
   background-color: #c9b5ab;
@@ -18,23 +18,32 @@ header,
 h2 {
   color: #3f1622;
   font-family: "PT+Sans", sans-serif;
+  font-size: 0.8rem
 }
 
 nav ol {
   list-style-type: none;
-  font-size: 1.5rem;
-  font-family: "PT Sans", sans-serif;
+  font-size: 1.125rem;
+  font-family: "PT+Sans", sans-serif;
   font-weight: bold;
 }
 
-a:link {
+a {
   color: #8f2440;
   text-decoration: none;
-  font-family: "PT Sans", sans-serif;
+  font-family: "PT+Sans", sans-serif;
+}
+
+a:hover {
+  color: #222;
+}
+
+img {
+  width: 65%
 }
 
 figure {
-  font-family: "PT Serif", italic serif;
+  font-family: "PT+Serif", italic serif;
   font-style: italic;
   font-size: 1.125rem;
   text-align: center;
@@ -60,6 +69,7 @@ blockquote > p {
 
 ul, li #Tags {
   list-style-type: circle;
+  font-weight: normal;
 }
 
 dl > dt {
