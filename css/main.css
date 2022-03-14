@@ -1,7 +1,5 @@
 html {
   box-sizing: border-box;
-  line-height: 1.5;
-  font-size: 1rem;
 }
 
 *, *::before, *::after {
@@ -17,6 +15,8 @@ body {
 header {
   color: #3f1622;
   font-family: "PT Sans", sans-serif;
+  font-size: 1rem;
+  line-height: 1.5;
 }
 
 h2 {
@@ -55,9 +55,7 @@ figure {
 }
 
 figure + p {
-  font-size: 1.125rem;
   font-weight: bold;
-  width: 100%;
 }
 
 blockquote > p {
