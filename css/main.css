@@ -24,14 +24,13 @@ nav ol {
   list-style-type: none;
   font-size: 1.5rem;
   font-family: "PT Sans", sans-serif;
-  font-style: bold;
+  font-weight: bold;
 }
 
 a:link {
   color: #8f2440;
   text-decoration: none;
   font-family: "PT Sans", sans-serif;
-  font-style: bold;
 }
 
 figure {
@@ -43,7 +42,7 @@ figure {
 
 figure + p {
   font-size: 1.5rem;
-  font-style: bold;
+  font-weight: bold;
 }
 
 blockquote > p {
@@ -64,5 +63,5 @@ ul, li #Tags {
 }
 
 dl > dt {
-  font-style: bold;
+  font-weight: bold;
 }
