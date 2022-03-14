@@ -78,6 +78,7 @@ blockquote > p {
 ul, li #Tags {
   list-style-type: circle;
   font-weight: normal;
+  font-size: .8rem;
 }
 
 dl > dt {
