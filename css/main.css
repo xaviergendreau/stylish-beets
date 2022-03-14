@@ -17,6 +17,7 @@ body {
 header {
   color: #3f1622;
   font-family: "PT Sans", sans-serif;
+  font-size: 0.8rem;
 }
 
 h2 {
@@ -50,7 +51,7 @@ img {
 figure {
   font-family: "PT Serif", italic serif;
   font-style: italic;
-  font-size: 1.5rem;
+  font-size: 1.125rem;
   text-align: center;
 }
 
