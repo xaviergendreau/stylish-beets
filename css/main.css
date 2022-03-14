@@ -14,11 +14,14 @@ body {
   font-family: "PT Serif", serif;
 }
 
-header,
-h2 {
+header {
   color: #3f1622;
   font-family: "PT Sans", sans-serif;
   font-size: 0.8rem;
+}
+h2 {
+    color: #3f1622;
+    font-family: "PT Sans", sans-serif;
 }
 
 nav ol {
