@@ -17,7 +17,6 @@ body {
 header {
   color: #3f1622;
   font-family: "PT Sans", sans-serif;
-  font-size: 1.125rem;
 }
 
 h2 {
@@ -28,7 +27,7 @@ h2 {
 
 nav ol {
   list-style-type: none;
-  font-size: 1.5rem;
+  font-size: 1.125rem;
   font-family: "PT Sans", sans-serif;
   font-weight: bold;
 }
